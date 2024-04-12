@@ -1,0 +1,8 @@
+(" Aqui podera calcular area e perimetro do seu triangulo)
+b = float(input(" digite a base:   "))
+h= float(input(" digite a altura:   "))
+
+A= (b*h)
+B=2**(b*h)
+print( "o perimetro do retangulo e", A)
+print("a area do retangulo e", B)
